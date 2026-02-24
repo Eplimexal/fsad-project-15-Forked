@@ -112,7 +112,7 @@ src/
 - **Borrower**: borrower@example.com
 - **Analyst**: analyst@example.com
 
-Password: Any password (mock authentication)
+Password: admin123
 
 ## Features by Role
 
